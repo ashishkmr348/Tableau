@@ -2,6 +2,12 @@
 
 This Tableau project explores the growth, distribution, and characteristics of Electric Vehicles (EVs) in the United States. It focuses on analyzing Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) to understand market trends, state-wise adoption, top-performing brands/models, and eligibility for clean fuel incentives.
 
+
+
+ <img width="1589" height="888" alt="image" src="https://github.com/user-attachments/assets/cb2e8fc3-b2b2-4fcd-a579-7855524f663f" />
+
+
+
 ---
 
 ## 📌 Project Overview
