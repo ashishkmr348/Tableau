@@ -1,2 +1,2 @@
 # Tableau
-Case study Projects on Tableau
+Case Study Projects on Tableau
